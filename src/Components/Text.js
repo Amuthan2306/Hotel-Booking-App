@@ -1,0 +1,30 @@
+const Texts = {
+  location: 'Current location',
+  Aus: 'Wallace, Australia',
+  nearhotel: 'The Aston Vill Hotel',
+  nearhotel2: 'Alice Springs NT 0870, Australia',
+  popoularhotel: 'Golden Palm Resort',
+  popoularhotellocate: 'Northern Territory, Australia',
+  wifi: 'Free Wifi',
+  FreeBreakfast: 'Free Breakfast',
+  rating: '5.0',
+  price: '$200.7 /night',
+  price2: '$175.7 /Day',
+  Description: 'Description',
+  Astonhotel:
+    'Aston Hotel, Alice Springs NT 0870, Australia is a modern hotel.elegant 5 star hotel overlooking the sea. perfect for a romantic,charming',
+  readmore: 'Read More. . .',
+  goldenhotel: 'Golden Palm Resort, Northern Territory, Australia is a modern hotel. elegant 4 star hotel overlooking the sea. perfect for a romantic, charming',
+  Preview: 'Preview',
+  Booking: 'Booking',
+  NearLocation: 'Near Location',
+  PopularHotel: 'Popular Hotel',
+  Seeall: 'See all',
+  normalprice: '200.7',
+  normalprice2: '175.9',
+  rating2: '4.8',
+  night: 'night',
+  Bookmark:'Bookmark Screen',
+  Profile:'Profile Screen'
+};
+export default Texts;
